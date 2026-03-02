@@ -1,8 +1,8 @@
 <?php
 
-namespace Mewebdev\Wpmenu;
+namespace DistantJet\Wpmenu;
 
-class MeWebDev_WPMenu extends MeWebDev_WPMenuItems
+class DistantJet_WPMenu extends DistantJet_WPMenuItems
 {
     /**
      * @param $theme_location The menu location: i.e. 'Top-Menu'

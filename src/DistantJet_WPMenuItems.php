@@ -1,7 +1,7 @@
 <?php 
-namespace Mewebdev\Wpmenu;
+namespace DistantJet\Wpmenu;
 
-class MeWebDev_WPMenuItems
+class DistantJet_WPMenuItems
 {
     protected $menuItems;
 
