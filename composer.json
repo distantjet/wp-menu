@@ -1,10 +1,10 @@
 {
-    "name": "distantjet/wp-menu",
+    "name": "distantjet/wpmenu",
     "description": "Retrieves a WordPress menu and dynamically generates a structured <ul> element for seamless integration.",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "distantjet\\wp-menu\\": "src/"
+            "distantjet\\wpmenu\\": "src/"
         }
     },
     "authors": [
