@@ -12,6 +12,6 @@
             "name": "Matias Escudero"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
